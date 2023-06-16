@@ -1,0 +1,9 @@
+let pizzaJson = [
+    {id:1, name:'Mussarela', img:'images/pizza.png', price:21.50, sizes:['100g', '530g', '860g'], description:'Esse sabor leva nada mais nada menos que o queijo muçarela em abundância, molho de tomate fresco, azeitona, rodelas de tomate e orégano!'},
+    {id:2, name:'Calabresa', img:'images/pizza2.png', price:18.99, sizes:['320g', '530g', '860g'], description:'O recheio é preparado com queijo, molho de tomate, calabresa em rodelas, cebola, tomate picado, azeite e orégano!'},
+    {id:3, name:'Quatro Queijos', img:'images/pizza3.png', price:17.45, sizes:['320g', '530g', '860g'], description:'Assim como o nome já diz, essa pizza é preparada com quatro queijos diferentes, como muçarela, gorgonzola, parmesão e catupiry!'},
+    {id:4, name:'Americana', img:'images/pizza4.png', price:19.80, sizes:['320g', '530g', '860g'], description:'A pizza leva como principal ingrediente o queijo italiano scamorza. Além dele, também são acrescentados molho de tomate, rodelas de tomate, brócolis, folhas de manjericão e azeitonas!'},
+    {id:5, name:'Portuguesa', img:'images/pizza5.png', price:21.60, sizes:['320g', '530g', '860g'], description:'É feita com queijo, azeitona verde ou preta, ovo cozido, presunto cozido, cebola, ervilha, molho de tomate e azeite!'},
+    {id:6, name:'Moda da Casa', img:'images/pizza6.png', price:18.55, sizes:['320g', '530g', '860g'], description:'Preparada com molho de tomate, manjericão, rodelas de tomate fresco, azeitona, queijo muçarela e orégano salpicado!'},
+    {id:7, name:'Chocolate', img:'images/pizza7.png', price:22.30, sizes:['320g', '530g', '860g'], description:'Recheada com amor, chocolate, confete, muita diversão e alegria!'}
+];
